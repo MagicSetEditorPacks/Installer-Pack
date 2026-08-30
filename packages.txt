@@ -1431,9 +1431,10 @@ installer:
 	package:
 		name:				magic-future-common.mse-include
 		version:			2026-08-28
-		installer group:	magic/Future Frames/Standard/Futureshifted Symbols
+		installer group:	magic/Future Frames/Standard/Future Symbols
 		position hint:		300090
-		short name:			Futureshifted Symbols
+		short name:			Future Symbols
+		full name:			Futureshifted Symbols
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-common.mse-include.icon.png
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-flip.mse-style.mse-installer
@@ -1441,10 +1442,10 @@ installer:
 	package:
 		name:				magic-future-flip.mse-style
 		version:			2024-05-29
-		installer group:	magic/Future Frames/Standard/Future Flips
+		installer group:	magic/Future Frames/Standard/Future Flip
 		position hint:		300040
-		short name:			Future Flips
-		full name:			Future flip cards
+		short name:			Future Flip
+		full name:			Futureshifted Flips
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-flip.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
@@ -1519,10 +1520,10 @@ installer:
 	package:
 		name:				magic-future-planeswalker.mse-style
 		version:			2026-08-28
-		installer group:	magic/Future Frames/Standard/Future Walkers
+		installer group:	magic/Future Frames/Standard/Future Walker
 		position hint:		300001
-		short name:			Future Walkers
-		full name:			Futureshift Planeswalkers
+		short name:			Future Walker
+		full name:			Futureshifted Planeswalkers
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
@@ -1577,10 +1578,10 @@ installer:
 	package:
 		name:				magic-future-split-facing.mse-style
 		version:			2024-05-29
-		installer group:	magic/Future Frames/Uncommon/FS Facing Splits
+		installer group:	magic/Future Frames/Uncommon/Future Facing Split
 		position hint:		330011
-		short name:			FS Facing Splits
-		full name:			Futureshift Facing Splits
+		short name:			Future Facing Split
+		full name:			Futureshifted Facing Splits
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-split-facing.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
@@ -1603,10 +1604,10 @@ installer:
 	package:
 		name:				magic-future-split.mse-style
 		version:			2024-05-29
-		installer group:	magic/Future Frames/Standard/Future Splits
+		installer group:	magic/Future Frames/Standard/Future Split
 		position hint:		300030
-		short name:			Future Splits
-		full name:			Futureshift Splits
+		short name:			Future Split
+		full name:			Futureshifted Splits
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-split.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
@@ -1675,10 +1676,10 @@ installer:
 	package:
 		name:				magic-future.mse-style
 		version:			2024-05-29
-		installer group:	magic/Future Frames/Standard/Future
+		installer group:	magic/Future Frames/Standard/Future Main
 		position hint:		300000
-		short name:			Future
-		full name:			Futureshift
+		short name:			Future Main
+		full name:			Futureshifted
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
@@ -3078,10 +3079,10 @@ installer:
 	package:
 		name:				magic-m15-future-planeswalker.mse-style
 		version:			2026-08-28
-		installer group:	magic/Future Frames/Uncommon/M15 Futurewalk
+		installer group:	magic/Future Frames/Uncommon/M15 Future Walker
 		position hint:		330102
-		short name:			M15 Futurewalk
-		full name:			Future Planeswalkers
+		short name:			M15 Future Walker
+		full name:			Futureshifted Planeswalkers
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-future-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
@@ -3840,15 +3841,15 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-pixel.mse-style
-		version:			2024-05-26
-		installer group:	magic/M15 Frames/Fan Made/Pixel
+		version:			2026-08-28
+		installer group:	magic/M15 Frames/Fan Made/Pixel Terminal
 		position hint:		042800
 		short name:			Pixel Terminal
 		full name:			Errors in the Weft Showcase
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-pixel.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -7071,10 +7072,10 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-mana-pixel-small.mse-symbol-font
-		version:			2020-02-07
-		installer group:	magic/Mana symbols/normal style with extra colors/M15
-		position hint:		201
-		short name:			M15 pixel small
+		version:			2026-08-28
+		installer group:	magic/Mana Symbols/Pixel Terminal
+		position hint:		850201
+		short name:			Pixel Terminal
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-mana-pixel-small.mse-symbol-font.icon.png
 		depends on:
 			package: magic-mainframe-extras.mse-include
@@ -7087,10 +7088,10 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-mana-pixel.mse-symbol-font
-		version:			2020-02-07
-		installer group:	magic/Mana symbols/normal style with extra colors/M15
-		position hint:		201
-		short name:			M15 pixel
+		version:			2026-08-28
+		installer group:	magic/Mana Symbols/Pixel Terminal Popout
+		position hint:		850201
+		short name:			Pixel Terminal Popout
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-mana-pixel.mse-symbol-font.icon.png
 		depends on:
 			package: magic-mainframe-extras.mse-include
@@ -9612,10 +9613,10 @@ installer:
 	package:
 		name:				magic-old-flip.mse-style
 		version:			2024-05-29
-		installer group:	magic/Old Frames/Standard/Old Flips
+		installer group:	magic/Old Frames/Standard/Old Flip
 		position hint:		200040
-		short name:			Old Flips
-		full name:			Old Style Flip Cards
+		short name:			Old Flip
+		full name:			Flips (Before 8th edition)
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-flip.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
@@ -9632,10 +9633,10 @@ installer:
 	package:
 		name:				magic-old-planeswalker.mse-style
 		version:			2024-05-29
-		installer group:	magic/Old Frames/Standard/Old Walkers
+		installer group:	magic/Old Frames/Standard/Old Walker
 		position hint:		200001
-		short name:			Old Walkers
-		full name:			Pre 8th Planeswalkers
+		short name:			Old Walker
+		full name:			Planeswalkers (Before 8th edition)
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
@@ -9714,9 +9715,9 @@ installer:
 	package:
 		name:				magic-old-saga.mse-style
 		version:			2025-05-12
-		installer group:	magic/Old Frames/Standard/Old style saga
+		installer group:	magic/Old Frames/Standard/Old Saga
 		position hint:		200010
-		short name:			Old style saga
+		short name:			Old Saga
 		full name:			Sagas (Before 8th edition)
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-saga.mse-style.icon.png
 		depends on:
@@ -9737,10 +9738,10 @@ installer:
 	package:
 		name:				magic-old-split-clear.mse-style
 		version:			2024-05-29
-		installer group:	magic/Old Frames/Uncommon/Clear Split
+		installer group:	magic/Old Frames/Uncommon/Old Clear Split
 		position hint:		230130
-		short name:			Clear Split
-		full name:			Old Clear Split
+		short name:			Old Clear Split
+		full name:			Clear Split (Before 8th edition)
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-split-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
@@ -9757,10 +9758,10 @@ installer:
 	package:
 		name:				magic-old-split.mse-style
 		version:			2024-05-29
-		installer group:	magic/Old Frames/Standard/Old Splits
+		installer group:	magic/Old Frames/Standard/Old Split
 		position hint:		200030
-		short name:			Old Splits
-		full name:			Magic Old Split Cards
+		short name:			Old Split
+		full name:			Splits (Before 8th edition)
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-split.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
@@ -9817,10 +9818,10 @@ installer:
 	package:
 		name:				magic-old-token-clear.mse-style
 		version:			2024-05-29
-		installer group:	magic/Old Frames/Uncommon/Clear Tokens
+		installer group:	magic/Old Frames/Uncommon/Old Clear Token
 		position hint:		230170
-		short name:			Clear Tokens
-		full name:			Old style
+		short name:			Old Clear Token
+		full name:			Clear Tokens (Before 8th edition)
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-token-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
@@ -9837,10 +9838,10 @@ installer:
 	package:
 		name:				magic-old-token.mse-style
 		version:			2024-05-29
-		installer group:	magic/Old Frames/Standard/Tokens
+		installer group:	magic/Old Frames/Standard/Old Token
 		position hint:		200070
-		short name:			Tokens
-		full name:			Old style
+		short name:			Old Token
+		full name:			Tokens (Before 8th edition)
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-token.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
@@ -9874,9 +9875,9 @@ installer:
 	package:
 		name:				magic-old.mse-style
 		version:			2025-10-20
-		installer group:	magic/Old Frames/Standard/Old style
+		installer group:	magic/Old Frames/Standard/Old Main
 		position hint:		200000
-		short name:			Old style
+		short name:			Old Main
 		full name:			Before 8th edition
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old.mse-style.icon.png
 		depends on:
@@ -10332,34 +10333,14 @@ installer:
 			package: magic-mana-small.mse-symbol-font
 			version: 2008-05-18
 installer:
-	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-pt-symbols-extra-m15.mse-symbol-font.mse-installer
-	downloadable:		true
-	package:
-		name:				magic-pt-symbols-extra-m15.mse-symbol-font
-		version:			2014-03-20
-		installer group:	magic/Mana Symbols/extra pt syms
-		position hint:		002
-		short name:			extra pt syms
-		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-pt-symbols-extra-m15.mse-symbol-font.icon.png
-installer:
-	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-pt-symbols-extra.mse-symbol-font.mse-installer
-	downloadable:		true
-	package:
-		name:				magic-pt-symbols-extra.mse-symbol-font
-		version:			2009-12-18
-		installer group:	magic/Mana Symbols/extra pt syms
-		position hint:		002
-		short name:			extra pt syms
-		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-pt-symbols-extra.mse-symbol-font.icon.png
-installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-pt-symbols-portal-colored.mse-symbol-font.mse-installer
 	downloadable:		true
 	package:
 		name:				magic-pt-symbols-portal-colored.mse-symbol-font
 		version:			2026-08-15
-		installer group:	magic/Mana Symbols/Portal PT
+		installer group:	magic/Mana Symbols/Portal PT Colorable
 		position hint:		850999
-		short name:			Portal PT
+		short name:			Portal PT Colorable
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-pt-symbols-portal-colored.mse-symbol-font.icon.png
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-pt-symbols-portal.mse-symbol-font.mse-installer
