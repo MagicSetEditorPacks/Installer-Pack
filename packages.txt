@@ -143,7 +143,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-agclassic-snow.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-agclassic.mse-style
 			version: 2015-11-11
@@ -175,7 +175,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-agclassic-token-snow.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-agclassic.mse-style
 			version: 2015-11-11
@@ -204,7 +204,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-agclassic-token.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-agclassic.mse-style
 			version: 2015-11-11
@@ -230,7 +230,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-agclassic.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-agwatermarks.mse-include
 			version: 2015-10-29
@@ -268,7 +268,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-archenemy.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -294,7 +294,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-b1234.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -317,7 +317,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-baseball-1980-topps.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2001-01-01
@@ -340,7 +340,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-blends.mse-include.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-02-28
+			version:			2026-08-28
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-booster-mini.mse-style.mse-installer
 	downloadable:		true
@@ -354,7 +354,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-booster-mini.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-booster.mse-style.mse-installer
 	downloadable:		true
@@ -367,7 +367,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-booster.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-cartoon.mse-style.mse-installer
 	downloadable:		true
@@ -379,7 +379,9 @@ installer:
 		short name:			Cartoon
 		full name:			by Lordpenguin
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-cartoon.mse-style.icon.png
-		depends on: magic.mse-game 2008-06-02
+		depends on:
+			package: magic.mse-game
+			version: 2026-08-28
 		depends on: magic-mana-bubble.mse-symbol-font 2008-05-21
 		depends on: magic-mana-small.mse-symbol-font 2008-05-18
 		depends on: vs-standard-new.mse-symbol-font 2008-05-19
@@ -399,7 +401,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-cbg-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -430,7 +432,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-checklist.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -453,7 +455,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-classicshifted-artbg.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -482,7 +484,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-classicshifted-duplex.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -508,7 +510,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-classicshifted-flip.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2010-04-07
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -537,7 +539,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-classicshifted-leveler.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2010-04-06
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -563,7 +565,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-classicshifted-split.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -589,7 +591,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-classicshifted.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -629,7 +631,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-comic.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-circleless.mse-symbol-font
 			version: 2007-09-23
@@ -650,8 +652,10 @@ installer:
 		short name:			CBG Main
 		full name:			by Comic_Book_Guy
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-comicbookguy.mse-style.icon.png
-		depends on: magic.mse-game                   2008-06-02
-		depends on: magic-cbgwatermarks.mse-include  2008-06-12
+		depends on:
+			package: magic.mse-game
+			version: 2026-08-28
+		depends on: magic-cbgwatermarks.mse-include  2026-08-28
 		depends on: magic-future-common.mse-include  2008-05-21
 		depends on: magic-mana-cbg.mse-symbol-font   2008-06-12
 		depends on: magic-mana-small.mse-symbol-font 2007-09-23
@@ -671,7 +675,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-contraption.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -693,53 +697,47 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-counter-m15.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2010-10-09
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
 		depends on:
-			package: magic-watermarks-counters.mse-include
-			version: 2017-05-03
+			package: magic-modules.mse-include
+			version: 2026-08-28
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-counter-mbs.mse-style.mse-installer
 	downloadable:		true
 	package:
 		name:				magic-counter-mbs.mse-style
 		version:			2026-07-14
-		installer group:	magic/Deprecated/MBS Counters
+		installer group:	magic/Deprecated/MBS Counter
 		position hint:		999999
 		short name:			MBS Counters
 		full name:			from Mirrodin Besieged
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-counter-mbs.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2010-10-09
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
-		depends on:
-			package: magic-watermarks-counter.mse-include
-			version: 2014-06-20
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-counter-nph.mse-style.mse-installer
 	downloadable:		true
 	package:
 		name:				magic-counter-nph.mse-style
 		version:			2026-07-14
-		installer group:	magic/Deprecated/NPH Counters
+		installer group:	magic/Deprecated/NPH Counter
 		position hint:		999999
 		short name:			NPH Counters
 		full name:			from New Phyrexia
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-counter-nph.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2010-10-09
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
-		depends on:
-			package: magic-watermarks-counter.mse-include
-			version: 2014-06-20
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-counter-sheet_744.mse-style.mse-installer
 	downloadable:		true
@@ -752,7 +750,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-counter-sheet_744.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-modules.mse-include
 			version:			2024-10-01
@@ -777,7 +775,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-counter.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2010-10-09
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-small.mse-symbol-font
 			version:			2007-09-23
@@ -797,7 +795,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-crystal-cave.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -806,7 +804,7 @@ installer:
 			version:			2007-09-23
 		depends on:
 			package:			magic-modules.mse-include
-			version:			2024-10-01
+			version:			2026-08-28
 		depends on:
 			package:			magic-mainframe-extras.mse-include
 			version:			2007-09-23
@@ -820,7 +818,9 @@ installer:
 		position hint:		140300
 		short name:			Crystal
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-crystal.mse-style.icon.png
-		depends on: magic.mse-game                     2009-08-10
+		depends on:
+			package: magic.mse-game
+			version: 2026-08-28
 		depends on: magic-mana-crystal.mse-symbol-font 2007-09-23
 		depends on: magic-mana-small.mse-symbol-font   2007-09-23
 		depends on:
@@ -838,7 +838,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-DayNight.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -873,7 +873,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-deckbox.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-default-image.mse-include.mse-installer
 	downloadable:		true
@@ -899,7 +899,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-doomtown.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -922,10 +922,10 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-dox-sokrates_750.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
-			version: 2024-10-01
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -945,7 +945,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-duplex.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -997,7 +997,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-echotemplate.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -1051,7 +1051,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-etherium.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -1074,7 +1074,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-expedition-33.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -1083,7 +1083,7 @@ installer:
 			version:			2007-09-23
 		depends on:
 			package:			magic-modules.mse-include
-			version:			2024-10-01
+			version:			2026-08-28
 		depends on:
 			package:			magic-mainframe-extras.mse-include
 			version:			2007-09-23
@@ -1099,7 +1099,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-extended-art.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -1125,7 +1125,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-fallout.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -1162,7 +1162,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-firepenguinmaster-flip.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2010-04-07
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -1188,7 +1188,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-firepenguinmaster-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -1214,7 +1214,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-firepenguinmaster-promo.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2007-12-29
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -1240,7 +1240,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-firepenguinmaster-split.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2007-12-29
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -1266,7 +1266,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-firepenguinmaster-token.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -1292,7 +1292,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-firepenguinmaster.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -1318,7 +1318,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-fkih.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -1369,7 +1369,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-fullart.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -1386,7 +1386,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-artbg.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2007-12-29
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -1412,7 +1412,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2008-05-21
@@ -1449,7 +1449,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-flip.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2010-04-07
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2008-05-21
@@ -1475,7 +1475,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-mirrored.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2007-12-29
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2008-05-21
@@ -1501,7 +1501,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-planeswalker-horizontal.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2008-05-21
@@ -1527,7 +1527,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2008-05-21
@@ -1556,7 +1556,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-promo.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2008-05-21
@@ -1585,7 +1585,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-split-facing.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -1611,7 +1611,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-split.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -1637,7 +1637,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-textless-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2008-05-21
@@ -1660,7 +1660,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future-textless.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2008-05-21
@@ -1683,7 +1683,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-future.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2008-05-21
@@ -1709,7 +1709,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-00-main.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -1741,7 +1741,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-01-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -1779,7 +1779,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-02-leveler.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -1814,7 +1814,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-03-adventure.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -1849,7 +1849,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-10-saga.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -1884,7 +1884,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-11-class.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -1922,7 +1922,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-20-battle.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -1960,7 +1960,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-70-token.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -1995,7 +1995,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-80-planechase.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -2033,7 +2033,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-90-counter.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -2067,7 +2067,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-hecatomb.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
@@ -2087,7 +2087,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-heroes.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2009-07-23
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -2110,7 +2110,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-herospath.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -2136,7 +2136,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-horror-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-horror.mse-style
 			version: 2008-08-08
@@ -2165,7 +2165,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-horror.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -2198,7 +2198,9 @@ installer:
 		short name:			Intense
 		full name:			by Lordpenguin
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-intense-horizontal.mse-style.icon.png
-		depends on: magic.mse-game 2008-06-02
+		depends on:
+			package: magic.mse-game
+			version: 2026-08-28
 		depends on: magic-mana-white.mse-symbol-font 2008-05-25
 		depends on:
 			package: magic-modules.mse-include
@@ -2215,7 +2217,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-jumpstart-front.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -2235,10 +2237,10 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-kasu-eldrazi_750.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
-			version: 2024-10-01
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -2258,10 +2260,10 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-kasu-legend_750.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
-			version: 2024-10-01
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -2281,7 +2283,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-l5r.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
@@ -2329,13 +2331,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-adventure.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
 		depends on:
 			package: magic-modules.mse-include
-			version: 2024-10-01
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -2358,7 +2360,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-aetherdrift-full-art-basics.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -2383,13 +2385,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-aftermath.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
 		depends on:
 			package: magic-modules.mse-include
-			version: 2024-10-01
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -2412,7 +2414,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-altered.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -2427,7 +2429,7 @@ installer:
 			version: 2018-01-01
 		depends on:
 			package: magic-modules.mse-include
-			version: 2024-10-01
+			version: 2026-08-28
 		depends on:
 			package: magic-pride.mse-include
 			version: 2024-05-22
@@ -2444,7 +2446,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-art-lair.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -2461,7 +2463,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-attractions.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -2486,7 +2488,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-bigtext.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -2512,7 +2514,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-black.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -2537,7 +2539,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-classicshifted.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -2563,7 +2565,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-clear-color.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-24
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -2586,7 +2588,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-clearartifact.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -2608,7 +2610,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-commander.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -2634,7 +2636,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-compleated-planeswalkers.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -2660,7 +2662,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-conspiracy.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-24
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -2683,7 +2685,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-contraption.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-24
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -2706,7 +2708,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-devoid.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -2735,7 +2737,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-dungeons.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2018-01-01
@@ -2757,7 +2759,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-duplex.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-m15-altered.mse-style
 			version: 2014-07-15
@@ -2783,7 +2785,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-emblem-acorntail.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -2806,7 +2808,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-emblem-cajun.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
@@ -2829,7 +2831,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-emblem-name-cut.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -2852,7 +2854,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-emblem-udelude.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
@@ -2872,7 +2874,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-emblem.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -2898,10 +2900,10 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-expedition.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
-			version: 2024-10-01
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -2920,7 +2922,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-extra-udelude.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2015-04-08
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -2948,7 +2950,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-extra.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2015-04-08
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -2976,13 +2978,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-flip.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
 		depends on:
 			package: magic-modules.mse-include
-			version: 2024-10-01
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -3002,7 +3004,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-forgotten-realms-full-art-basics.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -3028,7 +3030,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-full-art-basic-land-symbol.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-default-image.mse-include
 			version:		2007-09-23
@@ -3044,9 +3046,6 @@ installer:
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
-		depends on:
-			package:		magic-watermarks.mse-include
-			version:		2024-01-29
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-future-clear.mse-style.mse-installer
 	downloadable:		true
@@ -3060,7 +3059,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-future-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -3086,7 +3085,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-future-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -3115,7 +3114,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-future.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -3143,7 +3142,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-godzilla-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -3166,10 +3165,10 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-godzilla.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3194,7 +3193,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-GoodBad.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3219,7 +3218,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-grayscale.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3245,7 +3244,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-imageupload.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3265,7 +3264,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-invocation.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2015-04-08
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3280,7 +3279,7 @@ installer:
 			version: 2017-03-31
 		depends on:
 			package: magic-modules.mse-include
-			version: 2024-10-01
+			version: 2026-08-28
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-ixalan-full-art-basics.mse-style.mse-installer
 	downloadable:		true
@@ -3294,7 +3293,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-ixalan-full-art-basics.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -3319,7 +3318,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-jinx.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3345,13 +3344,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-Kaladesh.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
 		depends on:
 			package: magic-modules.mse-include
-			version: 2024-10-01
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -3371,7 +3370,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-kamigawa-full-art-basics.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -3396,7 +3395,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-keyword.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3422,7 +3421,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-leveler.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3448,7 +3447,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-loyalty.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3473,13 +3472,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-mainframe-battles.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
 		depends on:
 			package: magic-modules.mse-include
-			version: 2024-10-01
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
@@ -3499,7 +3498,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-mainframe-dfc.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-26
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -3543,7 +3542,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-mainframe-planes-mini.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2018-06-01
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2009-08-10
@@ -3566,7 +3565,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-mainframe-planes.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2018-06-01
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2009-08-10
@@ -3588,10 +3587,10 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-mainframe-planeswalker.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2014-06-25
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-modules.mse-include
-			version: 		2024-10-01
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-mana-large.mse-symbol-font
 			version: 		2007-09-23
@@ -3617,13 +3616,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-mainframe-tokens.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
 		depends on:
 			package: magic-modules.mse-include
-			version: 2024-10-01
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
@@ -3643,7 +3642,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-meld-3in1.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3668,7 +3667,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-nameonright.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3694,7 +3693,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-nonbasic-lands.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -3719,7 +3718,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-outlaws-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3744,7 +3743,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-outlaws-tokens.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3769,7 +3768,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-outlaws.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3794,7 +3793,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-paradox.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3823,7 +3822,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-phyrexia-full-art-basics.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -3874,7 +3873,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-planeshifted-duplex.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -3896,7 +3895,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-planeshifted-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -3918,7 +3917,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-planeshifted-split.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -3940,7 +3939,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-planeswalker-extra-purple.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -3965,7 +3964,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-planeswalker-grayscale.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-m15-planeswalker.mse-style
 			version: 2015-12-20
@@ -3991,7 +3990,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-planeswalker-pokemon.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -4014,7 +4013,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-planeswalker-promo-black.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -4037,7 +4036,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -4059,7 +4058,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-pokemon.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -4085,7 +4084,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-punk-show.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -4114,10 +4113,10 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-saga.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2014-06-25
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-modules.mse-include
-			version: 		2024-10-01
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-mana-large.mse-symbol-font
 			version: 		2007-09-23
@@ -4139,7 +4138,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-scroll-demon-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -4167,7 +4166,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-scroll-demon.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -4195,7 +4194,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-scroll.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -4224,7 +4223,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-secret-lair-arcade.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -4250,7 +4249,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-secret-lair-gatewatch.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-modules.mse-include
 			version:			2024-10-01
@@ -4285,7 +4284,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-secret-lair-stardew-valley.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -4294,7 +4293,7 @@ installer:
 			version:			2007-09-23
 		depends on:
 			package:			magic-modules.mse-include
-			version:			2024-10-01
+			version:			2026-08-28
 		depends on:
 			package:			magic-mainframe-extras.mse-include
 			version:			2007-09-23
@@ -4311,7 +4310,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-aetherdrift-first-place-walker.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4320,7 +4319,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4337,7 +4336,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-aetherdrift-first-place.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4346,7 +4345,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4363,7 +4362,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-assassins-creed-memory-corridor.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -4372,7 +4371,7 @@ installer:
 			version:			2007-09-23
 		depends on:
 			package:			magic-modules.mse-include
-			version:			2024-10-01
+			version:			2026-08-28
 		depends on:
 			package:			magic-mainframe-extras.mse-include
 			version:			2007-09-23
@@ -4389,7 +4388,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-avatar-elemental.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -4398,7 +4397,7 @@ installer:
 			version:			2007-09-23
 		depends on:
 			package:			magic-modules.mse-include
-			version:			2024-10-01
+			version:			2026-08-28
 		depends on:
 			package:			magic-mainframe-extras.mse-include
 			version:			2007-09-23
@@ -4415,7 +4414,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-bloomburrow-borderless-anime.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -4424,7 +4423,7 @@ installer:
 			version:			2007-09-23
 		depends on:
 			package:			magic-modules.mse-include
-			version:			2024-10-01
+			version:			2026-08-28
 		depends on:
 			package:			magic-mainframe-extras.mse-include
 			version:			2007-09-23
@@ -4441,7 +4440,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-bloomburrow-woodland.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4450,7 +4449,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4467,7 +4466,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-capenna-art-deco-walker.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4476,7 +4475,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4493,7 +4492,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-capenna-art-deco.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4502,7 +4501,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4519,7 +4518,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-capenna-golden-age.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4528,7 +4527,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4545,7 +4544,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-capenna-skyscraper.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4554,7 +4553,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4571,7 +4570,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-doctor-who-tardis.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4580,7 +4579,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4597,7 +4596,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-dominaria-stained-glass.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4606,7 +4605,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4623,13 +4622,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-dungeon-module.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2014-06-25
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-default-image.mse-include
 			version: 		2007-09-23
 		depends on:
 			package: 		magic-modules.mse-include
-			version: 		2024-10-01
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-mana-large.mse-symbol-font
 			version: 		2007-09-23
@@ -4652,7 +4651,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-duskmourn-paranormal.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4661,7 +4660,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4678,7 +4677,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-eldraine-tales.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4687,7 +4686,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4704,13 +4703,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-etched-foil.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2014-06-25
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-default-image.mse-include
 			version: 		2007-09-23
 		depends on:
 			package: 		magic-modules.mse-include
-			version: 		2024-10-01
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-mana-large.mse-symbol-font
 			version: 		2007-09-23
@@ -4733,7 +4732,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-eternities-stellar-sights-poster.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4742,7 +4741,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4759,7 +4758,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-eternities-stellar-sights.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4768,7 +4767,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4785,7 +4784,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-fallout-pipboy.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4794,7 +4793,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4811,7 +4810,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-hobbit-dragon-hoard.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4820,7 +4819,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4837,7 +4836,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-ikoria-crystal.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4846,7 +4845,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4863,7 +4862,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-innistrad-double-feature-walker.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -4872,7 +4871,7 @@ installer:
 			version:			2007-09-23
 		depends on:
 			package:			magic-modules.mse-include
-			version:			2024-10-01
+			version:			2026-08-28
 		depends on:
 			package:			magic-mainframe-extras.mse-include
 			version:			2007-09-23
@@ -4889,7 +4888,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-innistrad-double-feature.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -4898,7 +4897,7 @@ installer:
 			version:			2007-09-23
 		depends on:
 			package:			magic-modules.mse-include
-			version:			2024-10-01
+			version:			2026-08-28
 		depends on:
 			package:			magic-mainframe-extras.mse-include
 			version:			2007-09-23
@@ -4915,7 +4914,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-innistrad-mid.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4924,7 +4923,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4941,7 +4940,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-innistrad-vow.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4950,7 +4949,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4967,7 +4966,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-ixalan-cavern-maps.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4976,7 +4975,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -4993,7 +4992,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-ixalan-caverns.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5002,7 +5001,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5019,7 +5018,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-ixalan-legends.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5028,7 +5027,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5045,7 +5044,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-ixalan-treasure.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5054,7 +5053,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5071,7 +5070,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-japan.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -5097,13 +5096,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-kaldheim-dfc.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2014-06-25
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-default-image.mse-include
 			version: 		2007-09-23
 		depends on:
 			package: 		magic-modules.mse-include
-			version: 		2024-10-01
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-mana-large.mse-symbol-font
 			version: 		2007-09-23
@@ -5126,13 +5125,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-kaldheim.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-default-image.mse-include
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5155,7 +5154,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-kamigawa-neon.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5164,7 +5163,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5181,7 +5180,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-kamigawa-ninja.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5190,7 +5189,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5207,7 +5206,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-kamigawa-samurai.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5216,7 +5215,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5233,7 +5232,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-lorwyn-fable.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5242,7 +5241,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5259,7 +5258,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-lotr-scroll-saga.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5268,7 +5267,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5285,7 +5284,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-lotr-scroll.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5294,7 +5293,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5311,7 +5310,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-lotr.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -5320,7 +5319,7 @@ installer:
 			version:			2007-09-23
 		depends on:
 			package:			magic-modules.mse-include
-			version:			2024-10-01
+			version:			2026-08-28
 		depends on:
 			package:			magic-mainframe-extras.mse-include
 			version:			2007-09-23
@@ -5337,13 +5336,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-monster-manual.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2014-06-25
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-default-image.mse-include
 			version: 		2007-09-23
 		depends on:
 			package: 		magic-modules.mse-include
-			version: 		2024-10-01
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-mana-large.mse-symbol-font
 			version: 		2007-09-23
@@ -5366,13 +5365,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-praetor.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2014-06-25
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-default-image.mse-include
 			version: 		2007-09-23
 		depends on:
 			package: 		magic-modules.mse-include
-			version: 		2024-10-01
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-mana-large.mse-symbol-font
 			version: 		2007-09-23
@@ -5395,7 +5394,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-ravnica-city-mural.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5404,7 +5403,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5421,7 +5420,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-ravnica-dossier.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5433,7 +5432,7 @@ installer:
 			version:		2024-01-24
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5450,7 +5449,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-ravnica-magnified.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5459,7 +5458,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5476,7 +5475,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-spiderman-panel.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5485,7 +5484,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5502,7 +5501,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-spiderman-web-slinger.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5511,7 +5510,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5528,13 +5527,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-strixhaven-jp.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2014-06-25
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-default-image.mse-include
 			version: 		2007-09-23
 		depends on:
 			package: 		magic-modules.mse-include
-			version: 		2024-10-01
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-mana-large.mse-symbol-font
 			version: 		2007-09-23
@@ -5557,7 +5556,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-strixhaven.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5566,7 +5565,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5583,7 +5582,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-tarkir-draconic-adventure.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5592,7 +5591,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5609,7 +5608,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-tarkir-draconic.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5618,7 +5617,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5635,7 +5634,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-tarkir-dragon-wing.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5644,7 +5643,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5661,7 +5660,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-tarkir-ghostfire-walker.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5670,7 +5669,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5687,7 +5686,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-tarkir-ghostfire.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5696,7 +5695,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5713,7 +5712,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-theros-constellation.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5722,7 +5721,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5739,7 +5738,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-thunder-junction-breaking-news.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5748,7 +5747,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5765,7 +5764,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-thunder-junction-vault.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5774,7 +5773,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5791,7 +5790,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-thunder-junction-wanted-poster.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5800,7 +5799,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5817,7 +5816,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-tmnt-pixel.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5826,7 +5825,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5843,7 +5842,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-tmnt-sewer.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5852,7 +5851,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -5869,7 +5868,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-unfinity.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2014-06-25
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-mana-large.mse-symbol-font
 			version: 		2007-09-23
@@ -5878,7 +5877,7 @@ installer:
 			version: 		2007-09-23
 		depends on:
 			package: 		magic-modules.mse-include
-			version: 		2024-10-01
+			version: 		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version: 		2007-09-23
@@ -5895,13 +5894,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-zendikar.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2014-06-25
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-default-image.mse-include
 			version: 		2007-09-23
 		depends on:
 			package: 		magic-modules.mse-include
-			version: 		2024-10-01
+			version: 		2026-08-28
 		depends on:
 			package: 		magic-mana-large.mse-symbol-font
 			version: 		2007-09-23
@@ -5924,13 +5923,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-sketch.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
 		depends on:
 			package: magic-modules.mse-include
-			version: 2024-10-01
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -5949,7 +5948,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-snow.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -5974,7 +5973,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-spellbook.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -6003,13 +6002,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-split-fusable.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-default-image.mse-include
 			version:			2007-09-23
 		depends on:
 			package:			magic-modules.mse-include
-			version:			2024-10-01
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -6031,7 +6030,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-tapped-FULLART.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -6056,7 +6055,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-tapped.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -6082,7 +6081,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-textless-land.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -6101,13 +6100,13 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-textless.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
 		depends on:
 			package: magic-modules.mse-include
-			version: 2024-10-01
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large.mse-symbol-font
 			version: 2007-09-23
@@ -6127,7 +6126,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-token-invention.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -6153,7 +6152,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-token.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -6176,7 +6175,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-treasure-maps.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2014-06-25
+			version:		2026-08-28
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -6185,7 +6184,7 @@ installer:
 			version:		2007-09-23
 		depends on:
 			package:		magic-modules.mse-include
-			version:		2024-10-01
+			version:		2026-08-28
 		depends on:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
@@ -6202,7 +6201,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-ttk-frames.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -6228,7 +6227,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-unfinity-full-art-basics.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -6254,12 +6253,9 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-unstable-basics.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
-			version: 2007-09-23
-		depends on:
-			package: magic-watermarks.mse-include
 			version: 2007-09-23
 		depends on:
 			package: magic-modules.mse-include
@@ -6283,7 +6279,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-vanguard.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -6309,7 +6305,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-youtube.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -6338,7 +6334,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -6364,7 +6360,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15classic-hires.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -6390,7 +6386,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15classic-nyx.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -6416,7 +6412,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15classic-walker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -7546,7 +7542,9 @@ installer:
 		position hint:		141100
 		short name:			Megaman 2
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-megaman.mse-style.icon.png
-		depends on: magic.mse-game                   2008-06-02
+		depends on:
+			package: magic.mse-game
+			version: 2026-08-28
 		depends on: magic-mana-megaman.mse-symbol-font 2014-02-24
 		depends on:
 			package: magic-modules.mse-include
@@ -7578,7 +7576,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-monarch-emblem-with-name.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -7597,7 +7595,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-monarch-emblem.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -7617,7 +7615,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-mtgscommunity-1.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -7643,7 +7641,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-mtgscommunity-2.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -7669,7 +7667,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-music.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -7720,7 +7718,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-artbg.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -7749,7 +7747,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -7775,7 +7773,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-conspiracy.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -7798,7 +7796,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-curse.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -7824,7 +7822,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-doublefaced-sacrificer.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -7853,7 +7851,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-doublefaced-sparker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -7882,7 +7880,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-doublefaced.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2012-01-22
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -7908,7 +7906,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-duplex.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -7933,7 +7931,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-emblem.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -7958,7 +7956,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-extra.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2015-04-08
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -7967,7 +7965,7 @@ installer:
 			version: 2008-05-21
 		depends on:
 			package: magic-watermarks-extra.mse-include
-			version: 2007-12-22
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-large-extra.mse-symbol-font
 			version: 2009-03-23
@@ -7984,7 +7982,7 @@ installer:
 			package: magic-new.mse-style
 			version: 2008-04-13
 		depends on:
-			package: magic-pt-symbols-extra.mse-symbol-font
+			package: magic-mana-elements.mse-symbol-font
 			version: 2009-09-25
 		depends on:
 			package: magic-modules.mse-include
@@ -8002,7 +8000,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-flip-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -8027,7 +8025,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-flip.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2010-04-07
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8053,7 +8051,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-fulltext.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -8076,7 +8074,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-god-black.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8105,7 +8103,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-god-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -8131,7 +8129,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-god.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8160,7 +8158,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-harvester.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8186,7 +8184,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-japanese.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8212,7 +8210,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-leveler-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2010-04-06
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -8238,7 +8236,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-leveler-gradiented.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2010-04-06
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8263,7 +8261,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-leveler.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2010-04-06
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8289,7 +8287,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-maro.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8315,7 +8313,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-miracle.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8341,7 +8339,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-omega-doublefaced.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8367,7 +8365,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-omega-leveler.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -8396,7 +8394,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-omega.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -8419,7 +8417,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-phyrexian.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8454,7 +8452,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-plague.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8480,7 +8478,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-planeswalker-4abil-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2009-07-23
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -8506,7 +8504,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-planeswalker-4abil-scrunched.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2009-07-23
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -8535,7 +8533,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-planeswalker-4abil.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2009-07-23
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -8561,7 +8559,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-planeswalker-artbg.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -8587,7 +8585,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-planeswalker-basic.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-new.mse-style
 			version: 2008-04-13
@@ -8616,7 +8614,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-planeswalker-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -8642,7 +8640,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-planeswalker-doublefaced.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -8668,7 +8666,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-planeswalker-flip.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2010-04-07
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8697,7 +8695,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-planeswalker-pokemon.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -8723,7 +8721,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-planeswalker-promo-black.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -8746,7 +8744,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -8772,7 +8770,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-pokemon.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8798,7 +8796,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-promo-black.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -8821,7 +8819,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-promo-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -8847,7 +8845,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-promo-dka.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-new.mse-style
 			version: 2008-04-13
@@ -8873,7 +8871,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-promo.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2007-12-29
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8899,7 +8897,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-russian.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8925,7 +8923,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-split-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8954,7 +8952,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-split-fuse.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-05-27
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -8980,7 +8978,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-split-promo.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-new-promo.mse-style
 			version: 2008-06-01
@@ -9009,7 +9007,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-split.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -9034,7 +9032,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-tapped.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -9060,7 +9058,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-textless-artifact-narb777.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -9083,7 +9081,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-textless-land.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2009-08-10
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9103,7 +9101,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-textless.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -9126,7 +9124,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-token-artbg.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -9155,7 +9153,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-token-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -9181,7 +9179,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-token-nyx.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -9206,7 +9204,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-token.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -9232,7 +9230,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-tome.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2010-04-06
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -9258,7 +9256,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-unland.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -9278,7 +9276,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-unset-gmorph.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2011-09-10
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -9307,7 +9305,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-unset.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9338,7 +9336,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -9364,7 +9362,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-nokiou.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9387,7 +9385,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-nostalgic-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9413,7 +9411,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-nostalgic.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9439,7 +9437,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-nouveau.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9465,7 +9463,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-nouveau_duels.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9491,7 +9489,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-abu-split.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9514,7 +9512,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-abu.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9534,7 +9532,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-artbg.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9557,7 +9555,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9577,7 +9575,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-duplex.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9600,7 +9598,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-flip-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9620,7 +9618,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-flip.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2010-04-07
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9640,7 +9638,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9659,7 +9657,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-portal.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9682,7 +9680,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-promo-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2007-12-29
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
@@ -9702,7 +9700,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-promo.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2007-12-29
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
@@ -9722,7 +9720,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-saga.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
@@ -9745,7 +9743,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-split-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9765,7 +9763,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-split.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9785,7 +9783,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-textless-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2007-12-29
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
@@ -9805,7 +9803,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-textless.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
@@ -9825,7 +9823,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-token-clear.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
@@ -9845,7 +9843,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-token.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
@@ -9865,7 +9863,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-unland.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -9882,7 +9880,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -10052,7 +10050,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-piet.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -10078,7 +10076,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-planechase.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -10117,7 +10115,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-planeshifted-artbg.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -10146,7 +10144,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-planeshifted-duplex.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -10172,7 +10170,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-planeshifted-flip.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2010-04-07
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -10201,7 +10199,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-planeshifted-leveler.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2010-04-06
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -10227,7 +10225,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-planeshifted-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -10253,7 +10251,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-planeshifted-split.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -10276,7 +10274,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-planeshifted.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -10299,7 +10297,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-playtest.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2007-12-29
+			version:			2026-08-28
 		depends on:
 			package:			magic-modules.mse-include
 			version:			2024-05-20
@@ -10315,7 +10313,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-pride.mse-include.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-02-28
+			version:			2026-08-28
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-proplayers-2005.mse-style.mse-installer
 	downloadable:		true
@@ -10328,7 +10326,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-proplayers-2005.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2008-05-18
@@ -10364,7 +10362,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-rule-card.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -10389,7 +10387,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-rulestip.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2008-05-18
@@ -10409,7 +10407,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-scifi.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2020-04-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -10435,7 +10433,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-scroll.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -10456,7 +10454,9 @@ installer:
 		short name:			SevenHalf
 		full name:			7.5th Edition Frames
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-sevenhalf.mse-style.icon.png
-		depends on: magic.mse-game                   2008-06-02
+		depends on:
+			package: magic.mse-game
+			version: 2026-08-28
 		depends on: magic-default-image.mse-include  2007-09-23
 		depends on: magic-modules.mse-include        2024-10-01
 		depends on: magic-mana-large.mse-symbol-font 2007-09-23
@@ -10503,7 +10503,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-small-plain-flip.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-circleless.mse-symbol-font
 			version: 2008-05-19
@@ -10520,7 +10520,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-small-plain.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-05-18
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-circleless.mse-symbol-font
 			version: 2008-05-19
@@ -10537,7 +10537,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-source-material.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -10563,7 +10563,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-space-xerent.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2007-12-19
+			version: 2026-08-28
 		depends on:
 			package: space-psi-xerent.mse-symbol-font
 			version: 2007-12-19
@@ -10600,7 +10600,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-starwars.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
@@ -10623,7 +10623,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-symbol-display.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-symbol-extractor.mse-export-template.mse-installer
 	downloadable:		true
@@ -10650,7 +10650,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-sync.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -10676,7 +10676,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-tenth.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -10702,7 +10702,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-testprint-8th.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -10740,7 +10740,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-textless.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-future-common.mse-include
 			version: 2007-09-23
@@ -10763,7 +10763,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-the-ring-rule-card_744.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -10801,7 +10801,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-torskeravn-persona5.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -10839,7 +10839,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-urban.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-mana-graffiti.mse-symbol-font
 			version: 2010-02-04
@@ -10862,7 +10862,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-vanguard.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2014-06-25
+			version:			2026-08-28
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -10888,7 +10888,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-veryold.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -10908,7 +10908,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-vs.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2007-12-29
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -10939,24 +10939,6 @@ installer:
 			package: magic.mse-game
 			version: 2008-08-08
 installer:
-	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-watermarks-counter.mse-include.mse-installer
-	downloadable:		true
-	package:
-		name:				magic-watermarks-counter.mse-include
-		version:			2026-08-28
-		installer group:	magic/Game Files/Watermark Counter
-		position hint:		02
-		short name:			Watermark Counter
-installer:
-	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-watermarks-counters.mse-include.mse-installer
-	downloadable:		true
-	package:
-		name:				magic-watermarks-counters.mse-include
-		version:			2026-08-28
-		installer group:	magic/Game Files/Watermark Counters
-		position hint:		02
-		short name:			Watermark Counters
-installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-watermarks-extra.mse-include.mse-installer
 	downloadable:		true
 	package:
@@ -10965,18 +10947,9 @@ installer:
 		installer group:	magic/Game Files/Watermark Extras
 		position hint:		02
 		short name:			Watermark Extras
-installer:
-	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-watermarks.mse-include.mse-installer
-	downloadable:		true
-	package:
-		name:				magic-watermarks.mse-include
-		version:			2026-08-28
-		installer group:	magic/Game Files/Watermarks
-		position hint:		02
-		short name:			Watermarks
 		depends on:
-			package:			magic.mse-game
-			version:			2026-08-28
+			package: magic-modules.mse-include
+			version: 2026-08-28
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-willow-minimalist-god.mse-style.mse-installer
 	downloadable:		true
@@ -10989,7 +10962,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-willow-minimalist-god.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -11014,7 +10987,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-willow-minimalist.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2008-06-02
+			version: 2026-08-28
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -11039,7 +11012,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-windy-ultima.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2014-06-25
+			version: 2026-08-28
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
