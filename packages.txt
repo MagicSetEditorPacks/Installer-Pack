@@ -5,7 +5,7 @@ installer:
 		name:				Magic Set Editor
 		version:			2.6.0
 		installer group:	Magic Set Editor
-		position hint:		-1000000
+		position hint:		-10000000
 		short name:			Magic Set Editor
 		full name:			Application
 installer:
@@ -2933,9 +2933,6 @@ installer:
 			package: magic-mana-small-extra-udelude.mse-symbol-font
 			version: 2014-03-11
 		depends on:
-			package: magic-pt-symbols-extra-m15.mse-symbol-font
-			version: 2014-03-20
-		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
 installer:
@@ -2960,9 +2957,6 @@ installer:
 		depends on:
 			package: magic-mana-small-extra-m15.mse-symbol-font
 			version: 2014-03-11
-		depends on:
-			package: magic-pt-symbols-extra-m15.mse-symbol-font
-			version: 2014-03-20
 		depends on:
 			package: magic-modules.mse-include
 			version: 2024-10-01
@@ -3158,8 +3152,8 @@ installer:
 	package:
 		name:				magic-m15-godzilla.mse-style
 		version:			2024-06-06
-		installer group:	magic/Deprecated/M15 Godzilla
-		position hint:		999999
+		installer group:	magic/M15 Frames/Uncommon/Godzilla Main
+		position hint:		030201
 		short name:			M15 Godzilla
 		full name:			M15 Godzilla Style
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-godzilla.mse-style.icon.png
@@ -7603,6 +7597,20 @@ installer:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
 installer:
+	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-msem-namecheck.mse-export-template.mse-installer
+	downloadable:		true
+	package:
+		name:				magic-msem-namecheck.mse-export-template
+		version:			2026-08-28
+		installer group:	magic/Exporters/MSEM Name Check
+		position hint:		960301
+		short name:			MSEM Name Check
+		full name:			Name Check Exporter
+		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-msem-namecheck.mse-export-template.icon.png
+		depends on:
+			package: magic.mse-game
+			version: 2008-08-08
+installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-mtgscommunity-1.mse-style.mse-installer
 	downloadable:		true
 	package:
@@ -7692,12 +7700,26 @@ installer:
 			package: magic.mse-game
 			version: 2009-07-23
 installer:
+	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-namecheck-revolution.mse-export-template.mse-installer
+	downloadable:		true
+	package:
+		name:				magic-namecheck-revolution.mse-export-template
+		version:			2026-08-28
+		installer group:	magic/Exporters/Revolution Name Check
+		position hint:		960301
+		short name:			Revolution Name Check
+		full name:			Name Check Exporter
+		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-namecheck-revolution.mse-export-template.icon.png
+		depends on:
+			package: magic.mse-game
+			version: 2008-08-08
+installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-namecheck.mse-export-template.mse-installer
 	downloadable:		true
 	package:
 		name:				magic-namecheck.mse-export-template
-		version:			2018-01-11
-		installer group:	magic/Exporters/Name Check
+		version:			2026-08-28
+		installer group:	magic/Exporters/MTG Name Check
 		position hint:		960300
 		short name:			Name Check
 		full name:			Name Check Exporter
