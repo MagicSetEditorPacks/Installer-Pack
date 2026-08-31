@@ -3484,7 +3484,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-mainframe-dfc.mse-style
-		version:			2026-08-26
+		version:			2026-08-31
 		installer group:	magic/Deprecated/Mainframe DFC
 		position hint:		999999
 		short name:			Mainframe DFC
