@@ -2323,7 +2323,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-adventure.mse-style
-		version:			2026-08-24
+		version:			2026-08-30
 		installer group:	magic/M15 Frames/Standard/M15 Adventure
 		position hint:		000003
 		short name:			M15 Adventure
@@ -3574,7 +3574,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-mainframe-planeswalker.mse-style
-		version:			2026-08-19
+		version:			2026-08-30
 		installer group:	magic/M15 Frames/Standard/M15 Planeswalker
 		position hint:		000001
 		short name:			M15 Planeswalker
@@ -3628,7 +3628,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-meld-3in1.mse-style
-		version:			2026-07-15
+		version:			2026-08-30
 		installer group:	magic/Deprecated/EMN Meld (3-in-1)
 		position hint:		999999
 		short name:			EMN Meld (3-in-1)
@@ -11064,7 +11064,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic.mse-game
-		version:			2026-08-28
+		version:			2026-08-30
 		installer group:	magic/Game Files
 		position hint:		00
 		short name:			Magic
