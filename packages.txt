@@ -2323,7 +2323,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-adventure.mse-style
-		version:			2026-08-30
+		version:			2026-08-31
 		installer group:	magic/M15 Frames/Standard/M15 Adventure
 		position hint:		000003
 		short name:			M15 Adventure
