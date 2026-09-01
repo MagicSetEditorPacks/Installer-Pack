@@ -6421,7 +6421,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-mainframe-extras.mse-include
-		version:			2026-08-28
+		version:			2018-01-01
 		installer group:	magic/M15 Frames/Standard/Mainframe Extras
 		position hint:		000090
 		short name:			Mainframe Extras
