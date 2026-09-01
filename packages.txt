@@ -6425,6 +6425,7 @@ installer:
 		installer group:	magic/M15 Frames/Standard/Mainframe Extras
 		position hint:		000090
 		short name:			Mainframe Extras
+		read only file:		*
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-mana-agflat.mse-symbol-font.mse-installer
 	downloadable:		true
