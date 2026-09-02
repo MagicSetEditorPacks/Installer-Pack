@@ -11065,7 +11065,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic.mse-game
-		version:			2026-08-30
+		version:			2026-09-02
 		installer group:	magic/Game Files
 		position hint:		00
 		short name:			Magic
