@@ -3574,7 +3574,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-mainframe-planeswalker.mse-style
-		version:			2026-08-30
+		version:			2026-09-02
 		installer group:	magic/M15 Frames/Standard/M15 Planeswalker
 		position hint:		000001
 		short name:			M15 Planeswalker
