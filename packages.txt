@@ -5056,7 +5056,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-japan.mse-style
-		version:			2024-05-20
+		version:			2026-09-05
 		installer group:	magic/M15 Frames/Booster Fun/Japan
 		position hint:		014000
 		short name:			Japan
