@@ -3,7 +3,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				Magic Set Editor
-		version:			2.6.0
+		version:			2.6.1
 		installer group:	Magic Set Editor
 		position hint:		-10000000
 		short name:			Magic Set Editor
@@ -260,7 +260,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-archenemy.mse-style
-		version:			2026-02-28
+		version:			2026-09-06
 		installer group:	magic/Satellite Games/Archenemy
 		position hint:		900100
 		short name:			Archenemy
@@ -268,7 +268,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-archenemy.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -768,14 +768,14 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-counter.mse-style
-		version:			2026-07-14
+		version:			2026-09-06
 		installer group:	magic/Paraphernalia/PHY Counters
 		position hint:		800003
 		short name:			PHY Counters
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-counter.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-small.mse-symbol-font
 			version:			2007-09-23
@@ -787,7 +787,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-crystal-cave.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Fan Made/Crystal Caves
 		position hint:		040400
 		short name:			Crystal Caves
@@ -795,7 +795,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-crystal-cave.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -914,7 +914,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-dox-sokrates_750.mse-style
-		version:			2024-08-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Fan Made/Sokrates
 		position hint:		040500
 		short name:			Sokrates
@@ -922,7 +922,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-dox-sokrates_750.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-modules.mse-include
 			version: 2026-08-28
@@ -1066,7 +1066,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-expedition-33.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Fan Made/Expedition 33
 		position hint:		040600
 		short name:			Expedition 33
@@ -1074,7 +1074,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-expedition-33.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -1701,7 +1701,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-genevensis-00-main.mse-style
-		version:			2022-02-22
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Fan Made/Gen/Gen Main
 		position hint:		040300
 		short name:			Gen Main
@@ -1709,7 +1709,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-00-main.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -1733,7 +1733,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-genevensis-01-planeswalker.mse-style
-		version:			2022-02-22
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Fan Made/Gen/Gen Walker
 		position hint:		040301
 		short name:			Gen Walker
@@ -1741,7 +1741,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-01-planeswalker.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -1771,7 +1771,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-genevensis-02-leveler.mse-style
-		version:			2022-02-22
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Fan Made/Gen/Gen Leveler
 		position hint:		040302
 		short name:			Gen Leveler
@@ -1779,7 +1779,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-02-leveler.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -1806,7 +1806,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-genevensis-03-adventure.mse-style
-		version:			2022-02-22
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Fan Made/Gen/Gen Adventure
 		position hint:		040303
 		short name:			Gen Adventure
@@ -1814,7 +1814,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-03-adventure.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -1841,7 +1841,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-genevensis-10-saga.mse-style
-		version:			2022-02-22
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Fan Made/Gen/Gen Saga
 		position hint:		040310
 		short name:			Gen Saga
@@ -1849,7 +1849,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-10-saga.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -1876,7 +1876,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-genevensis-11-class.mse-style
-		version:			2022-02-22
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Fan Made/Gen/Gen Class
 		position hint:		040311
 		short name:			Gen Class
@@ -1884,7 +1884,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-11-class.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -1914,7 +1914,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-genevensis-20-battle.mse-style
-		version:			2022-02-22
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Fan Made/Gen/Gen Battle
 		position hint:		040320
 		short name:			Gen Battle
@@ -1922,7 +1922,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-20-battle.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -1952,7 +1952,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-genevensis-70-token.mse-style
-		version:			2022-02-22
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Fan Made/Gen/Gen Full Art
 		position hint:		040370
 		short name:			Gen Full Art
@@ -1960,7 +1960,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-70-token.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -1987,7 +1987,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-genevensis-80-planechase.mse-style
-		version:			2022-02-22
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Fan Made/Gen/Gen Plane
 		position hint:		040390
 		short name:			Gen Plane
@@ -1995,7 +1995,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-genevensis-80-planechase.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2001-01-01
@@ -2102,7 +2102,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-herospath.mse-style
-		version:			2026-02-28
+		version:			2026-09-06
 		installer group:	magic/Satellite Games/Hero's Path
 		position hint:		900300
 		short name:			Hero's Path
@@ -2110,7 +2110,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-herospath.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -2180,9 +2180,9 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-identity-new.mse-include
-		version:			2026-08-28
-		installer group:	magic/Game Files/Color Indicators
-		position hint:		02
+		version:			2026-08-29
+		installer group:	magic/Deprecated/Color Indicators
+		position hint:		999999
 		short name:			Color Indicators
 		depends on:
 			package:			magic.mse-game
@@ -2229,7 +2229,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-kasu-eldrazi_750.mse-style
-		version:			2024-08-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Fan Made/Eldrazi
 		position hint:		040700
 		short name:			Eldrazi
@@ -2237,7 +2237,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-kasu-eldrazi_750.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-modules.mse-include
 			version: 2026-08-28
@@ -2252,7 +2252,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-kasu-legend_750.mse-style
-		version:			2024-08-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Fan Made/Elder Scrolls
 		position hint:		040800
 		short name:			Elder Scrolls
@@ -2260,7 +2260,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-kasu-legend_750.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-modules.mse-include
 			version: 2026-08-28
@@ -2323,7 +2323,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-adventure.mse-style
-		version:			2026-08-31
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Standard/M15 Adventure
 		position hint:		000003
 		short name:			M15 Adventure
@@ -2331,7 +2331,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-adventure.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -2352,7 +2352,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-aetherdrift-full-art-basics.mse-style
-		version:			2024-05-20
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Basic Land/DFT Basics
 		position hint:		020200
 		short name:			DFT Basics
@@ -2360,7 +2360,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-aetherdrift-full-art-basics.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -2406,7 +2406,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-altered.mse-style
-		version:			2026-08-31
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Standard/M15 Main
 		position hint:		000000
 		short name:			M15 Main
@@ -2414,7 +2414,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-altered.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -2455,7 +2455,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-attractions.mse-style
-		version:			2024-05-20
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Uncommon/Attraction
 		position hint:		031100
 		short name:			Attraction
@@ -2463,7 +2463,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-attractions.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -2628,7 +2628,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-compleated-planeswalkers.mse-style
-		version:			2024-09-20
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Uncommon/Compleated PW
 		position hint:		030101
 		short name:			Compleated PW
@@ -2636,7 +2636,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-compleated-planeswalkers.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -2729,7 +2729,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-dungeons.mse-style
-		version:			2026-07-11
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Uncommon/Dungeon
 		position hint:		031000
 		short name:			Dungeon
@@ -2737,7 +2737,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-dungeons.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-mainframe-extras.mse-include
 			version: 2018-01-01
@@ -2866,7 +2866,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-emblem.mse-style
-		version:			2026-02-28
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Standard/M15 Emblem
 		position hint:		000071
 		short name:			M15 Emblem
@@ -2874,7 +2874,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-emblem.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -2990,7 +2990,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-forgotten-realms-full-art-basics.mse-style
-		version:			2024-05-20
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Basic Land/SLD Basics
 		position hint:		020300
 		short name:			SLD Basics
@@ -2998,7 +2998,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-forgotten-realms-full-art-basics.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -3016,7 +3016,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-full-art-basic-land-symbol.mse-style
-		version:			2026-08-30
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Basic Land/M15 Basics
 		position hint:		020000
 		short name:			M15 Basics
@@ -3024,7 +3024,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-full-art-basic-land-symbol.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-default-image.mse-include
 			version:		2007-09-23
@@ -3279,7 +3279,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-ixalan-full-art-basics.mse-style
-		version:			2024-05-20
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Basic Land/LCI Basics
 		position hint:		020400
 		short name:			LCI Basics
@@ -3287,7 +3287,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-ixalan-full-art-basics.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -3356,7 +3356,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-kamigawa-full-art-basics.mse-style
-		version:			2024-05-20
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Basic Land/NEO Basics
 		position hint:		020500
 		short name:			NEO Basics
@@ -3364,7 +3364,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-kamigawa-full-art-basics.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -3459,14 +3459,14 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-mainframe-battles.mse-style
-		version:			2025-01-21
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Standard/M15 Battle
 		position hint:		000020
 		short name:			M15 Battle
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-mainframe-battles.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3574,14 +3574,14 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-mainframe-planeswalker.mse-style
-		version:			2026-09-02
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Standard/M15 Planeswalker
 		position hint:		000001
 		short name:			M15 Planeswalker
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-mainframe-planeswalker.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2026-08-28
+			version: 		2026-09-06
 		depends on:
 			package: 		magic-modules.mse-include
 			version: 		2026-08-28
@@ -3602,7 +3602,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-mainframe-tokens.mse-style
-		version:			2026-08-31
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Standard/M15 Token
 		position hint:		000070
 		short name:			M15 Token
@@ -3610,7 +3610,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-mainframe-tokens.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -3808,7 +3808,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-phyrexia-full-art-basics.mse-style
-		version:			2024-05-20
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Basic Land/ONE Basics
 		position hint:		020600
 		short name:			ONE Basics
@@ -3816,7 +3816,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-phyrexia-full-art-basics.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -4099,7 +4099,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-saga.mse-style
-		version:			2026-09-04
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Standard/M15 Saga
 		position hint:		000010
 		short name:			M15 Saga
@@ -4107,7 +4107,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-saga.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2026-08-28
+			version: 		2026-09-06
 		depends on:
 			package: 		magic-modules.mse-include
 			version: 		2026-08-28
@@ -4209,7 +4209,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-secret-lair-arcade.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Arcade
 		position hint:		013301
 		short name:			Arcade
@@ -4217,7 +4217,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-secret-lair-arcade.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -4235,7 +4235,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-secret-lair-gatewatch.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/The Gatewatch
 		position hint:		013300
 		short name:			The Gatewatch
@@ -4243,7 +4243,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-secret-lair-gatewatch.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-modules.mse-include
 			version:			2024-10-01
@@ -4270,7 +4270,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-secret-lair-stardew-valley.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Stardew Valley
 		position hint:		013302
 		short name:			Stardew Valley
@@ -4278,7 +4278,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-secret-lair-stardew-valley.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -4296,7 +4296,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-aetherdrift-first-place-walker.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/First-Place PW
 		position hint:		010301
 		short name:			First-Place PW
@@ -4304,7 +4304,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-aetherdrift-first-place-walker.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4322,7 +4322,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-aetherdrift-first-place.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/First-Place
 		position hint:		010300
 		short name:			First-Place
@@ -4330,7 +4330,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-aetherdrift-first-place.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4348,7 +4348,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-assassins-creed-memory-corridor.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Memory Corridor
 		position hint:		010400
 		short name:			Memory Corridor
@@ -4356,7 +4356,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-assassins-creed-memory-corridor.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -4374,7 +4374,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-avatar-elemental.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Elemental
 		position hint:		010600
 		short name:			Elemental
@@ -4382,7 +4382,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-avatar-elemental.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -4400,7 +4400,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-bloomburrow-borderless-anime.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Leaves
 		position hint:		010700
 		short name:			Leaves
@@ -4408,7 +4408,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-bloomburrow-borderless-anime.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -4426,7 +4426,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-bloomburrow-woodland.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Woodland
 		position hint:		010701
 		short name:			Woodland
@@ -4434,7 +4434,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-bloomburrow-woodland.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4452,7 +4452,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-capenna-art-deco-walker.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Art Deco PW
 		position hint:		010801
 		short name:			Art Deco PW
@@ -4460,7 +4460,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-capenna-art-deco-walker.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4478,7 +4478,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-capenna-art-deco.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Art Deco
 		position hint:		010800
 		short name:			Art Deco
@@ -4486,7 +4486,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-capenna-art-deco.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4504,7 +4504,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-capenna-golden-age.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Golden Age
 		position hint:		010802
 		short name:			Golden Age
@@ -4512,7 +4512,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-capenna-golden-age.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4530,7 +4530,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-capenna-skyscraper.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Skyscraper
 		position hint:		010803
 		short name:			Skyscraper
@@ -4538,7 +4538,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-capenna-skyscraper.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4556,7 +4556,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-doctor-who-tardis.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/TARDIS
 		position hint:		010900
 		short name:			TARDIS
@@ -4564,7 +4564,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-doctor-who-tardis.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4582,7 +4582,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-dominaria-stained-glass.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Stained Glass
 		position hint:		011000
 		short name:			Stained Glass
@@ -4590,7 +4590,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-dominaria-stained-glass.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4608,7 +4608,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-dungeon-module.mse-style
-		version:			2024-05-26
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Dungeon Module
 		position hint:		011100
 		short name:			Dungeon Module
@@ -4616,7 +4616,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-dungeon-module.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2026-08-28
+			version: 		2026-09-06
 		depends on:
 			package: 		magic-default-image.mse-include
 			version: 		2007-09-23
@@ -4637,7 +4637,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-duskmourn-paranormal.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Paranormal
 		position hint:		011300
 		short name:			Paranormal
@@ -4645,7 +4645,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-duskmourn-paranormal.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4663,7 +4663,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-eldraine-tales.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Enchanting Tales
 		position hint:		011400
 		short name:			Enchanting Tales
@@ -4671,7 +4671,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-eldraine-tales.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4689,7 +4689,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-etched-foil.mse-style
-		version:			2024-09-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Etched Foil
 		position hint:		013400
 		short name:			Etched Foil
@@ -4697,7 +4697,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-etched-foil.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2026-08-28
+			version: 		2026-09-06
 		depends on:
 			package: 		magic-default-image.mse-include
 			version: 		2007-09-23
@@ -4718,7 +4718,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-eternities-stellar-sights-poster.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Poster S. Sights
 		position hint:		011500
 		short name:			Poster S. Sights
@@ -4726,7 +4726,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-eternities-stellar-sights-poster.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4744,7 +4744,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-eternities-stellar-sights.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Stellar Sights
 		position hint:		011501
 		short name:			Stellar Sights
@@ -4752,7 +4752,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-eternities-stellar-sights.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4770,7 +4770,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-fallout-pipboy.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/PipBoy
 		position hint:		011600
 		short name:			PipBoy
@@ -4778,7 +4778,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-fallout-pipboy.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4796,7 +4796,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-hobbit-dragon-hoard.mse-style
-		version:			2026-08-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Dragon Hoard
 		position hint:		012310
 		short name:			Dragon Hoard
@@ -4804,7 +4804,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-hobbit-dragon-hoard.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4822,7 +4822,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-ikoria-crystal.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Crystalline
 		position hint:		011700
 		short name:			Crystalline
@@ -4830,7 +4830,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-ikoria-crystal.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4848,7 +4848,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-innistrad-double-feature-walker.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Eternal Night PW
 		position hint:		011801
 		short name:			Eternal Night PW
@@ -4856,7 +4856,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-innistrad-double-feature-walker.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -4874,7 +4874,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-innistrad-double-feature.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Eternal Night
 		position hint:		011800
 		short name:			Eternal Night
@@ -4882,7 +4882,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-innistrad-double-feature.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -4900,7 +4900,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-innistrad-mid.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Equinox
 		position hint:		011802
 		short name:			Equinox
@@ -4908,7 +4908,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-innistrad-mid.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4926,7 +4926,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-innistrad-vow.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Fang
 		position hint:		011803
 		short name:			Fang
@@ -4934,7 +4934,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-innistrad-vow.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4952,7 +4952,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-ixalan-cavern-maps.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Cavern Map
 		position hint:		011906
 		short name:			Cavern Map
@@ -4960,7 +4960,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-ixalan-cavern-maps.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -4978,7 +4978,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-ixalan-caverns.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Caverns
 		position hint:		011901
 		short name:			Caverns
@@ -4986,7 +4986,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-ixalan-caverns.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5004,7 +5004,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-ixalan-legends.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Legends
 		position hint:		011902
 		short name:			Legends
@@ -5012,7 +5012,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-ixalan-legends.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5030,7 +5030,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-ixalan-treasure.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Treasure
 		position hint:		011903
 		short name:			Treasure
@@ -5038,7 +5038,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-ixalan-treasure.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5056,7 +5056,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-japan.mse-style
-		version:			2026-09-05
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Japan
 		position hint:		014000
 		short name:			Japan
@@ -5064,7 +5064,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-japan.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -5082,7 +5082,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-kaldheim-dfc.mse-style
-		version:			2026-07-15
+		version:			2026-09-06
 		installer group:	magic/Deprecated/Vikings DFC
 		position hint:		999999
 		short name:			Vikings DFC
@@ -5090,7 +5090,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-kaldheim-dfc.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2026-08-28
+			version: 		2026-09-06
 		depends on:
 			package: 		magic-default-image.mse-include
 			version: 		2007-09-23
@@ -5111,7 +5111,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-kaldheim.mse-style
-		version:			2026-07-15
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Vikings
 		position hint:		012001
 		short name:			Vikings
@@ -5119,7 +5119,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-kaldheim.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-default-image.mse-include
 			version:		2007-09-23
@@ -5140,7 +5140,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-kamigawa-neon.mse-style
-		version:			2024-09-19
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Neon
 		position hint:		012100
 		short name:			Neon
@@ -5148,7 +5148,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-kamigawa-neon.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5166,7 +5166,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-kamigawa-ninja.mse-style
-		version:			2024-09-19
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Ninja
 		position hint:		012101
 		short name:			Ninja
@@ -5174,7 +5174,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-kamigawa-ninja.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5192,7 +5192,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-kamigawa-samurai.mse-style
-		version:			2024-09-19
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Samurai
 		position hint:		012102
 		short name:			Samurai
@@ -5200,7 +5200,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-kamigawa-samurai.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5218,7 +5218,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-lorwyn-fable.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Fable
 		position hint:		012200
 		short name:			Fable
@@ -5226,7 +5226,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-lorwyn-fable.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5244,7 +5244,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-lotr-scroll-saga.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Scroll
 		position hint:		012300
 		short name:			Scroll Saga
@@ -5252,7 +5252,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-lotr-scroll-saga.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5270,7 +5270,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-lotr-scroll.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Scroll
 		position hint:		012301
 		short name:			Scroll
@@ -5278,7 +5278,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-lotr-scroll.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5296,7 +5296,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-lotr.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Ring
 		position hint:		012302
 		short name:			Ring
@@ -5304,7 +5304,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-lotr.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -5322,7 +5322,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-monster-manual.mse-style
-		version:			2024-09-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Monster Manual
 		position hint:		012400
 		short name:			Monster Manual
@@ -5330,7 +5330,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-monster-manual.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2026-08-28
+			version: 		2026-09-06
 		depends on:
 			package: 		magic-default-image.mse-include
 			version: 		2007-09-23
@@ -5351,7 +5351,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-praetor.mse-style
-		version:			2024-09-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Uncommon/Compleated
 		position hint:		030100
 		short name:			Praetor
@@ -5359,7 +5359,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-praetor.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2026-08-28
+			version: 		2026-09-06
 		depends on:
 			package: 		magic-default-image.mse-include
 			version: 		2007-09-23
@@ -5380,7 +5380,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-ravnica-city-mural.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/City Mural
 		position hint:		012500
 		short name:			City Mural
@@ -5388,7 +5388,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-ravnica-city-mural.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5406,7 +5406,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-ravnica-dossier.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Dossier
 		position hint:		012501
 		short name:			Dossier
@@ -5414,7 +5414,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-ravnica-dossier.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5435,7 +5435,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-ravnica-magnified.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Magnified
 		position hint:		012502
 		short name:			Magnified
@@ -5443,7 +5443,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-ravnica-magnified.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5461,7 +5461,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-spiderman-panel.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Panel
 		position hint:		012600
 		short name:			Panel
@@ -5469,7 +5469,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-spiderman-panel.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5487,7 +5487,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-spiderman-web-slinger.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Web-Slinger
 		position hint:		012601
 		short name:			Web-Slinger
@@ -5495,7 +5495,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-spiderman-web-slinger.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5513,7 +5513,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-strixhaven-jp.mse-style
-		version:			2024-09-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/JP Archives
 		position hint:		012700
 		short name:			JP Archives
@@ -5521,7 +5521,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-strixhaven-jp.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2026-08-28
+			version: 		2026-09-06
 		depends on:
 			package: 		magic-default-image.mse-include
 			version: 		2007-09-23
@@ -5542,7 +5542,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-strixhaven.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Mystical Archive
 		position hint:		012701
 		short name:			Mystical Archive
@@ -5550,7 +5550,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-strixhaven.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5568,7 +5568,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-tarkir-draconic-adventure.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Draconic Adventure
 		position hint:		012800
 		short name:			Draconic Adventure
@@ -5576,7 +5576,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-tarkir-draconic-adventure.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5594,7 +5594,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-tarkir-draconic.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Draconic
 		position hint:		012801
 		short name:			Draconic
@@ -5602,7 +5602,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-tarkir-draconic.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5620,7 +5620,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-tarkir-dragon-wing.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Dragon Wing
 		position hint:		012802
 		short name:			Dragon Wing
@@ -5628,7 +5628,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-tarkir-dragon-wing.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5646,7 +5646,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-tarkir-ghostfire-walker.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Ghostfire PW
 		position hint:		012804
 		short name:			Ghostfire PW
@@ -5654,7 +5654,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-tarkir-ghostfire-walker.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5672,7 +5672,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-tarkir-ghostfire.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Ghostfire
 		position hint:		012803
 		short name:			Ghostfire
@@ -5680,7 +5680,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-tarkir-ghostfire.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5698,7 +5698,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-theros-constellation.mse-style
-		version:			2024-09-19
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Constellation
 		position hint:		012900
 		short name:			Constellation
@@ -5706,7 +5706,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-theros-constellation.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5724,7 +5724,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-thunder-junction-breaking-news.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Breaking News
 		position hint:		013000
 		short name:			Breaking News
@@ -5732,7 +5732,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-thunder-junction-breaking-news.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5750,7 +5750,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-thunder-junction-vault.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Vault
 		position hint:		013001
 		short name:			Vault
@@ -5758,7 +5758,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-thunder-junction-vault.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5776,7 +5776,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-thunder-junction-wanted-poster.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Wanted Poster
 		position hint:		013002
 		short name:			Wanted Poster
@@ -5784,7 +5784,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-thunder-junction-wanted-poster.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5802,7 +5802,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-tmnt-pixel.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Pixel
 		position hint:		013100
 		short name:			Pixel
@@ -5810,7 +5810,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-tmnt-pixel.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5828,7 +5828,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-tmnt-sewer.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Sewer
 		position hint:		013101
 		short name:			Sewer
@@ -5836,7 +5836,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-tmnt-sewer.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -5854,7 +5854,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-unfinity.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Of Tomorrow
 		position hint:		013200
 		short name:			Of Tomorrow
@@ -5862,7 +5862,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-unfinity.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2026-08-28
+			version: 		2026-09-06
 		depends on:
 			package: 		magic-mana-large.mse-symbol-font
 			version: 		2007-09-23
@@ -5880,7 +5880,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-zendikar.mse-style
-		version:			2024-09-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Hedron
 		position hint:		010001
 		short name:			Hedron
@@ -5888,7 +5888,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-zendikar.mse-style.icon.png
 		depends on:
 			package: 		magic.mse-game
-			version: 		2026-08-28
+			version: 		2026-09-06
 		depends on:
 			package: 		magic-default-image.mse-include
 			version: 		2007-09-23
@@ -5909,7 +5909,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-sketch.mse-style
-		version:			2024-09-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Sketch
 		position hint:		013500
 		short name:			Sketch
@@ -5917,7 +5917,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-sketch.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-default-image.mse-include
 			version: 2007-09-23
@@ -5988,7 +5988,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-split-fusable.mse-style
-		version:			2026-08-15
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Standard/M15 Split
 		position hint:		000030
 		short name:			M15 Split
@@ -5996,7 +5996,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-split-fusable.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-default-image.mse-include
 			version:			2007-09-23
@@ -6161,7 +6161,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-treasure-maps.mse-style
-		version:			2026-08-26
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Booster Fun/Treasure Map
 		position hint:		011905
 		short name:			Treasure Map
@@ -6169,7 +6169,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-treasure-maps.mse-style.icon.png
 		depends on:
 			package:		magic.mse-game
-			version:		2026-08-28
+			version:		2026-09-06
 		depends on:
 			package:		magic-mana-large.mse-symbol-font
 			version:		2007-09-23
@@ -6213,7 +6213,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-unfinity-full-art-basics.mse-style
-		version:			2024-05-20
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Basic Land/UNF Basics
 		position hint:		029000
 		short name:			UNF Basics
@@ -6221,7 +6221,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-unfinity-full-art-basics.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -7549,7 +7549,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-modules.mse-include
-		version:			2026-08-28
+		version:			2026-09-06
 		installer group:	magic/Game Files/Modules
 		position hint:		02
 		short name:			Modules
@@ -7557,7 +7557,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-modules.mse-include.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-monarch-emblem-with-name.mse-style.mse-installer
 	downloadable:		true
@@ -7947,14 +7947,14 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-new-emblem.mse-style
-		version:			2026-02-28
+		version:			2026-09-06
 		installer group:	magic/8th Edition Frames/Standard/8th Emblem
 		position hint:		100071
 		short name:			8th Emblem
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-new-emblem.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -9715,7 +9715,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-old-promo.mse-style
-		version:			2024-05-29
+		version:			2026-09-06
 		installer group:	magic/Old Frames/Standard/Old Promo
 		position hint:		200060
 		short name:			Old Promo
@@ -9723,7 +9723,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-promo.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
@@ -9735,7 +9735,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-old-saga.mse-style
-		version:			2025-05-12
+		version:			2026-09-06
 		installer group:	magic/Old Frames/Standard/Old Saga
 		position hint:		200010
 		short name:			Old Saga
@@ -9743,7 +9743,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-old-saga.mse-style.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2026-08-28
+			version: 2026-09-06
 		depends on:
 			package: magic-mana-small.mse-symbol-font
 			version: 2007-09-23
@@ -10091,7 +10091,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-planechase.mse-style
-		version:			2026-02-28
+		version:			2026-09-06
 		installer group:	magic/Satellite Games/Planechase
 		position hint:		900000
 		short name:			Planechase
@@ -10099,7 +10099,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-planechase.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -10312,7 +10312,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-playtest.mse-style
-		version:			2026-04-22
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Uncommon/Playtest Main
 		position hint:		032000
 		short name:			Playtest Main
@@ -10320,7 +10320,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-playtest.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-modules.mse-include
 			version:			2024-05-20
@@ -10378,14 +10378,14 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-rule-card.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/Paraphernalia/Rules Reminder
 		position hint:		800200
 		short name:			Rules Reminder
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-rule-card.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -10422,7 +10422,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-scifi.mse-style
-		version:			2024-05-30
+		version:			2026-09-01
 		installer group:	magic/M15 Frames/Fan Made/Sci-Fi
 		position hint:		041501
 		short name:			Sci-Fi
@@ -10552,7 +10552,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-source-material.mse-style
-		version:			2024-05-20
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Standard/Source Material
 		position hint:		000100
 		short name:			Source Material
@@ -10560,7 +10560,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-source-material.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -10778,7 +10778,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-the-ring-rule-card_744.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/Paraphernalia/Rules Reminder
 		position hint:		800201
 		short name:			Rules Reminder
@@ -10786,7 +10786,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-the-ring-rule-card_744.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -10816,7 +10816,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-torskeravn-persona5.mse-style
-		version:			2024-10-01
+		version:			2026-09-06
 		installer group:	magic/M15 Frames/Fan Made/Persona 5
 		position hint:		040601
 		short name:			Persona 5
@@ -10824,7 +10824,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-torskeravn-persona5.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -10877,7 +10877,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-vanguard.mse-style
-		version:			2026-02-28
+		version:			2026-09-06
 		installer group:	magic/Satellite Games/Vanguard
 		position hint:		900200
 		short name:			Vanguard
@@ -10885,7 +10885,7 @@ installer:
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-vanguard.mse-style.icon.png
 		depends on:
 			package:			magic.mse-game
-			version:			2026-08-28
+			version:			2026-09-06
 		depends on:
 			package:			magic-mana-large.mse-symbol-font
 			version:			2007-09-23
@@ -11065,7 +11065,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic.mse-game
-		version:			2026-09-02
+		version:			2026-09-06
 		installer group:	magic/Game Files
 		position hint:		00
 		short name:			Magic
