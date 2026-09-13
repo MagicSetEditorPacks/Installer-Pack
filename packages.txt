@@ -2406,7 +2406,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-altered.mse-style
-		version:			2026-09-06
+		version:			2026-09-13
 		installer group:	magic/M15 Frames/Standard/M15 Main
 		position hint:		000000
 		short name:			M15 Main
@@ -3151,7 +3151,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-godzilla.mse-style
-		version:			2024-06-06
+		version:			2026-09-13
 		installer group:	magic/M15 Frames/Uncommon/Godzilla Main
 		position hint:		030201
 		short name:			M15 Godzilla
@@ -3459,7 +3459,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-mainframe-battles.mse-style
-		version:			2026-09-06
+		version:			2026-09-13
 		installer group:	magic/M15 Frames/Standard/M15 Battle
 		position hint:		000020
 		short name:			M15 Battle
@@ -3574,7 +3574,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-mainframe-planeswalker.mse-style
-		version:			2026-09-08
+		version:			2026-09-13
 		installer group:	magic/M15 Frames/Standard/M15 Planeswalker
 		position hint:		000001
 		short name:			M15 Planeswalker
@@ -4099,7 +4099,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-saga.mse-style
-		version:			2026-09-11
+		version:			2026-09-13
 		installer group:	magic/M15 Frames/Standard/M15 Saga
 		position hint:		000010
 		short name:			M15 Saga
@@ -9858,7 +9858,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-old-token.mse-style
-		version:			2024-05-29
+		version:			2026-09-13
 		installer group:	magic/Old Frames/Standard/Old Token
 		position hint:		200070
 		short name:			Old Token
@@ -10091,27 +10091,27 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-planechase.mse-style
-		version:			2026-09-06
+		version:			2026-09-13
 		installer group:	magic/Satellite Games/Planechase
 		position hint:		900000
 		short name:			Planechase
 		full name:			Old / New / Custom
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-planechase.mse-style.icon.png
 		depends on:
-			package:			magic.mse-game
-			version:			2026-09-06
+			package:		magic.mse-game
+			version:		2026-09-06
 		depends on:
-			package:			magic-mana-large.mse-symbol-font
-			version:			2007-09-23
+			package:		magic-mana-large.mse-symbol-font
+			version:		2007-09-23
 		depends on:
-			package:			magic-mana-small.mse-symbol-font
-			version:			2007-09-23
+			package:		magic-mana-small.mse-symbol-font
+			version:		2007-09-23
 		depends on:
-			package:			magic-modules.mse-include
-			version:			2024-10-01
+			package:		magic-modules.mse-include
+			version:		2024-10-01
 		depends on:
-			package:			magic-mainframe-extras.mse-include
-			version:			2007-09-23
+			package:		magic-mainframe-extras.mse-include
+			version:		2007-09-23
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-planesculptors.mse-export-template.mse-installer
 	downloadable:		true
@@ -11065,7 +11065,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic.mse-game
-		version:			2026-09-06
+		version:			2026-09-13
 		installer group:	magic/Game Files
 		position hint:		00
 		short name:			Magic
