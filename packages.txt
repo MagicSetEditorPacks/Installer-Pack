@@ -3528,7 +3528,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-mainframe-planes-mini.mse-style
-		version:			2026-02-28
+		version:			2026-09-18
 		installer group:	magic/Deprecated/Planechase Mini
 		position hint:		999999
 		short name:			Planechase
@@ -3551,7 +3551,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-mainframe-planes.mse-style
-		version:			2026-02-28
+		version:			2026-09-18
 		installer group:	magic/Deprecated/Planechase
 		position hint:		999999
 		short name:			Planechase
