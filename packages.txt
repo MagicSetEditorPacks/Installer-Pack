@@ -1140,15 +1140,15 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-field-test.mse-export-template
-		version:			2026-02-06
+		version:			2026-09-18
 		installer group:	magic/Exporters/Field Test
 		position hint:		960120
 		short name:			Field Test
-		full name:			Exporter v1.1
+		full name:			Exporter v1.2
 		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-field-test.mse-export-template.icon.png
 		depends on:
 			package: magic.mse-game
-			version: 2009-07-23
+			version: 2026-08-28
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-firepenguinmaster-flip.mse-style.mse-installer
 	downloadable:		true
