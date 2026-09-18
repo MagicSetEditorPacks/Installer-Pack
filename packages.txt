@@ -2800,7 +2800,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-emblem-cajun.mse-style
-		version:			2026-05-14
+		version:			2026-09-17
 		installer group:	magic/Deprecated/Emblems
 		position hint:		999999
 		short name:			Emblems
