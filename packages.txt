@@ -3484,7 +3484,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-mainframe-dfc.mse-style
-		version:			2026-09-07
+		version:			2026-09-17
 		installer group:	magic/Deprecated/Mainframe DFC
 		position hint:		999999
 		short name:			Mainframe DFC
@@ -4099,7 +4099,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-saga.mse-style
-		version:			2026-09-13
+		version:			2026-09-17
 		installer group:	magic/M15 Frames/Standard/M15 Saga
 		position hint:		000010
 		short name:			M15 Saga
