@@ -4099,7 +4099,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-saga.mse-style
-		version:			2026-09-18
+		version:			2026-09-19
 		installer group:	magic/M15 Frames/Standard/M15 Saga
 		position hint:		000010
 		short name:			M15 Saga
@@ -4120,6 +4120,9 @@ installer:
 		depends on:
 			package: 		magic-mainframe-extras.mse-include
 			version: 		2018-01-01
+		depends on:
+			package:		magic-pride.mse-include
+			version:		2026-08-28
 installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-scroll-demon-planeswalker.mse-style.mse-installer
 	downloadable:		true
