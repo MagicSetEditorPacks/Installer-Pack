@@ -4095,35 +4095,6 @@ installer:
 			package: magic-mainframe-extras.mse-include
 			version: 2007-09-23
 installer:
-	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-saga.mse-style.mse-installer
-	downloadable:		true
-	package:
-		name:				magic-m15-saga.mse-style
-		version:			2026-09-19
-		installer group:	magic/M15 Frames/Standard/M15 Saga
-		position hint:		000010
-		short name:			M15 Saga
-		full name:			also Class, Case
-		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-saga.mse-style.icon.png
-		depends on:
-			package: 		magic.mse-game
-			version: 		2026-09-06
-		depends on:
-			package: 		magic-modules.mse-include
-			version: 		2026-08-28
-		depends on:
-			package: 		magic-mana-large.mse-symbol-font
-			version: 		2007-09-23
-		depends on:
-			package: 		magic-mana-small.mse-symbol-font
-			version: 		2007-09-23
-		depends on:
-			package: 		magic-mainframe-extras.mse-include
-			version: 		2018-01-01
-		depends on:
-			package:		magic-pride.mse-include
-			version:		2026-08-28
-installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-scroll-demon-planeswalker.mse-style.mse-installer
 	downloadable:		true
 	package:
