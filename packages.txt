@@ -5460,6 +5460,32 @@ installer:
 			package:		magic-mainframe-extras.mse-include
 			version:		2007-09-23
 installer:
+	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-reality-fracture-stronghold.mse-style.mse-installer
+	downloadable:		true
+	package:
+		name:				magic-m15-showcase-reality-fracture-stronghold.mse-style
+		version:			2026-09-06
+		installer group:	magic/M15 Frames/Booster Fun/Sculptor's Stronghold
+		position hint:		013300
+		short name:			Sculptor's Stronghold
+		full name:			Reality Fracture Showcase
+		icon url:			https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-reality-fracture-stronghold.mse-style.icon.png
+		depends on:
+			package:		magic.mse-game
+			version:		2026-09-06
+		depends on:
+			package:		magic-mana-large.mse-symbol-font
+			version:		2007-09-23
+		depends on:
+			package:		magic-mana-small.mse-symbol-font
+			version:		2007-09-23
+		depends on:
+			package:		magic-modules.mse-include
+			version:		2026-08-28
+		depends on:
+			package:		magic-mainframe-extras.mse-include
+			version:		2007-09-23
+installer:
 	url:				https://github.com/MagicSetEditorPacks/Installer-Pack/raw/refs/heads/main/magic-m15-showcase-spiderman-panel.mse-style.mse-installer
 	downloadable:		true
 	package:
