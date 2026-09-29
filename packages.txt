@@ -5909,7 +5909,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-m15-showcase-zendikar.mse-style
-		version:			2026-09-06
+		version:			2026-09-29
 		installer group:	magic/M15 Frames/Booster Fun/Hedron
 		position hint:		010001
 		short name:			Hedron
