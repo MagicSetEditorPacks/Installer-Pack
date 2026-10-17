@@ -2079,7 +2079,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-heroes.mse-style
-		version:			2024-05-30
+		version:			2026-10-16
 		installer group:	magic/Future Frames/Fan Made/Heroes
 		position hint:		340200
 		short name:			Heroes
