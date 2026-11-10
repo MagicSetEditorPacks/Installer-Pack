@@ -10407,7 +10407,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic-rule-card.mse-style
-		version:			2026-09-06
+		version:			2026-11-09
 		installer group:	magic/Paraphernalia/Rules Reminder
 		position hint:		800200
 		short name:			Rules Reminder
@@ -11094,7 +11094,7 @@ installer:
 	downloadable:		true
 	package:
 		name:				magic.mse-game
-		version:			2026-09-24
+		version:			2026-11-09
 		installer group:	magic/Game Files
 		position hint:		00
 		short name:			Magic
